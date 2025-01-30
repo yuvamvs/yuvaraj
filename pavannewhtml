@@ -18,7 +18,7 @@
 
     <!-- Page 1 -->
     <div class="page active" id="page1">
-        <h2>Welcome to yuvi gay page</h2>
+        <h2>Welcome to yuvi page</h2>
         <p>This is the first page.</p>
         <button onclick="showPage('page2')">Go to Page 2</button>
     </div>

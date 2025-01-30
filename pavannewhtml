@@ -25,7 +25,7 @@
 
     <!-- Page 2 -->
     <div class="page" id="page2">
-        <h2>Welcome to Page 2</h2>
+        <h2>Welcome to pavan </h2>
         <p>This is the second page.</p>
         <button onclick="showPage('page1')">Go back to Page 1</button>
         <button onclick="showPage('page3')">Go to Page 3</button>
